@@ -1,0 +1,10 @@
+{
+  "integrationFolder": "cypress/integration",
+  "fixturesFolder": "cypress/fixtures",
+  "pluginsFile": "cypress/plugins",
+  "supportFile": "cypress/support",
+  "baseUrl": "https://www.weightwatchers.com/us/",
+  "modifyObstructiveCode": false,
+  "chromeWebSecurity": false,
+  "projectId": "oyw8dz"
+}
